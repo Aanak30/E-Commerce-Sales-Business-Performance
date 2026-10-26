@@ -91,7 +91,7 @@ Provides a high-level summary of business performance through total revenue, tot
 Examines revenue and order trends over time, including yearly comparisons of revenue, orders, and average order value across categories.
 
 **Business question:** How has sales performance changed over time?
-![E-Commerce Sales Dashboard](/screenshort/Sales Trend.png)
+![E-Commerce Sales Dashboard](Sceenshorts/Sales_Trend.png)
 
 ### Page 3 — Category & Product Analysis
 
@@ -99,7 +99,7 @@ Compares product categories using revenue, order volume, average order value, cu
 
 **Business question:** Which categories contribute most to business performance?
 
-![E-Commerce Sales Dashboard](/screenshort/Category.png)
+![E-Commerce Sales Dashboard](Sceenshorts/Category_Product.png)
 
 
 ### Page 4 — Customer Analysis
@@ -107,7 +107,7 @@ Compares product categories using revenue, order volume, average order value, cu
 Explores geographic sales patterns across customer states and cities, along with category-level performance across locations.
 
 **Business question:** Where are customers located, and which geographic areas generate the most revenue?
-![E-Commerce Sales Dashboard](/screenshort/Customers.png)
+![E-Commerce Sales Dashboard](Sceenshorts/Customers.png)
 
 
 ### Page 5 — Delivery & Logistics
@@ -115,7 +115,7 @@ Explores geographic sales patterns across customer states and cities, along with
 Analyzes average delivery duration, late orders, on-time delivery performance, and delivery patterns across geographic segments.
 
 **Business question:** Where can delivery operations be improved?
-![E-Commerce Sales Dashboard](/screenshort/Review.png)
+![E-Commerce Sales Dashboard](Sceenshorts/Delivery_Logestics.png)
 
 ### Page 6 — Customer Reviews
 
@@ -123,7 +123,7 @@ Examines rating distribution, average ratings, category-level ratings, and the r
 
 **Business question:** What does customer feedback reveal about the customer experience
 
-![E-Commerce Sales Dashboard](/screenshort/Review.png)
+![E-Commerce Sales Dashboard](Sceenshorts/Review.png)
 
 ## Key Business Metrics
 
