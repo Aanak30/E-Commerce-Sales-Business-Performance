@@ -84,38 +84,38 @@ The report design focuses on clear visual hierarchy, consistent formatting, rele
 Provides a high-level summary of business performance through total revenue, total orders, total customers, average order value, monthly orders, revenue trends, top categories by revenue, and order status distribution.
 
 **Business question:** What does overall e-commerce performance look like?
-
-https://github.com/Aanak30/E-Commerce-Sales-Business-Performance/blob/main/Sceenshorts/Overview.png
+![E-Commerce Sales Dashboard](/Sceenshorts/Overview.png)
 
 ### Page 2 — Sales Trend Analysis
 
 Examines revenue and order trends over time, including yearly comparisons of revenue, orders, and average order value across categories.
 
 **Business question:** How has sales performance changed over time?
-https://github.com/Aanak30/E-Commerce-Sales-Business-Performance/blob/main/Sceenshorts/Overview.png
+![E-Commerce Sales Dashboard](/screenshort/Sales Trend.png)
 
 ### Page 3 — Category & Product Analysis
 
 Compares product categories using revenue, order volume, average order value, customer ratings, and category revenue share.
 
 **Business question:** Which categories contribute most to business performance?
-https://github.com/Aanak30/E-Commerce-Sales-Business-Performance/blob/main/Sceenshorts/Overview.png
+
+![E-Commerce Sales Dashboard](/screenshort/Category.png)
+
 
 ### Page 4 — Customer Analysis
 
 Explores geographic sales patterns across customer states and cities, along with category-level performance across locations.
 
 **Business question:** Where are customers located, and which geographic areas generate the most revenue?
+![E-Commerce Sales Dashboard](/screenshort/Customers.png)
 
-https://github.com/Aanak30/E-Commerce-Sales-Business-Performance/blob/main/Sceenshorts/Overview.png
 
 ### Page 5 — Delivery & Logistics
 
 Analyzes average delivery duration, late orders, on-time delivery performance, and delivery patterns across geographic segments.
 
 **Business question:** Where can delivery operations be improved?
-
-https://github.com/Aanak30/E-Commerce-Sales-Business-Performance/blob/main/Sceenshorts/Delivery%20%26%20Logestics.png
+![E-Commerce Sales Dashboard](/screenshort/Review.png)
 
 ### Page 6 — Customer Reviews
 
@@ -123,7 +123,7 @@ Examines rating distribution, average ratings, category-level ratings, and the r
 
 **Business question:** What does customer feedback reveal about the customer experience
 
-![E-Commerce Sales Dashboard](screenshort/Review.png)
+![E-Commerce Sales Dashboard](/screenshort/Review.png)
 
 ## Key Business Metrics
 
