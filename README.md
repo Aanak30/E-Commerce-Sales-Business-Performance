@@ -159,6 +159,3 @@ For each finding, include:
 - The result supported by SQL or Power BI
 - The relevant metric or comparison
 - A brief business implication
-
-
-#
